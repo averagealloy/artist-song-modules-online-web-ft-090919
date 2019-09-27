@@ -1,3 +1,3 @@
 module Findable
 
-  def find_by
+  def find_by_name 
