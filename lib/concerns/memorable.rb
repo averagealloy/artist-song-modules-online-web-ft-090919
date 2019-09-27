@@ -7,3 +7,4 @@ module Memorable
 def count
 
 end
+end
