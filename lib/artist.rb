@@ -2,7 +2,7 @@ require 'pry'
 
 class Artist
   extend Memorable
-  extend Findable 
+  extend Findable
   attr_accessor :name
   attr_reader :songs
 
@@ -21,7 +21,7 @@ class Artist
     @@artists
   end
 
-#  def self.reset_all
+  def self.reset_all
 #    self.all.clear
 #  end
 
