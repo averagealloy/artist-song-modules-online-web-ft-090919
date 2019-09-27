@@ -1,7 +1,7 @@
 module Findable
 
   def find_by_name(name)
-    self.all.d
+    self.all.detect
 
   end
 end
