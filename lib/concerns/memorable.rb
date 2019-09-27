@@ -1,3 +1,3 @@
 module Memorable
 
-  def rest
+  def rest_
