@@ -1,7 +1,7 @@
 require 'pry'
 
 class Artist
-  e
+  extend 
   attr_accessor :name
   attr_reader :songs
 
