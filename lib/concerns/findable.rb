@@ -1,3 +1,3 @@
 module Findable
 
-  df
+  def 
