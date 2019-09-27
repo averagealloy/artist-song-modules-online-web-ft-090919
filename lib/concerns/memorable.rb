@@ -5,6 +5,6 @@ module Memorable
   end
 
 def count
-  self.c
+  self.count.cl
 end
 end
