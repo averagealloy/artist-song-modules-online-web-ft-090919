@@ -1,3 +1,3 @@
 module Findable
 
-  def 
+  def find_
