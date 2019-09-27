@@ -1,3 +1,5 @@
 module Memorable
 
-  def rest_
+  def reset_all
+
+    
