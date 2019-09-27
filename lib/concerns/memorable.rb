@@ -1,1 +1,1 @@
-module Memor
+module Memorable
